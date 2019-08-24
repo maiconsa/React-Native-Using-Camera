@@ -7,8 +7,6 @@ Ao fim da operação a mídia (Foto, Vídeo) é enviada para uma tela de Preview
 Fotos: Pressiona o botão central para tirar foto.
 Video: Pressione e seguro o botão central para gravar vídeo.
 
-
-
 ## Dependências
 'react-navigation';
 'react-native-video';
@@ -16,6 +14,15 @@ Video: Pressione e seguro o botão central para gravar vídeo.
  'react-native-vector-icons/Ionicons';
  
  
- #  Imange
+ #  Imagens
  
- # Tela Principal
+ ## Tela Principal
+ ![Tela Principal](https://github.com/maiconsa/React-Native-Using-Camera/blob/master/previews/home.png)
+ 
+  ## Tela Preview para Fotos
+   ![Tela Principal](https://github.com/maiconsa/React-Native-Using-Camera/blob/master/previews/preview-picture.png)
+   
+  ## Tela Preview para Video
+   ![Tela Principal](https://github.com/maiconsa/React-Native-Using-Camera/blob/master/previews/preview-video.png)
+  
+  
